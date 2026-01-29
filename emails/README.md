@@ -1,4 +1,4 @@
-# Email Ops (Fundraising)
+# Emails (Fundraising)
 
 This folder is the source of truth for drafting, approval, and scheduling of fundraising emails per client.
 
