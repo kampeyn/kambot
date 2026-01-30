@@ -1,29 +1,57 @@
-# Application (Short Form) — Organize SD Cohort
+# Recruit Application — Final Questions (Organize SD)
 
-Goal: keep the public application **short** (8–12 required questions), then use interviews for depth.
+## Training details
+- Application window: **Feb 2–Feb 28, 2026**
+- Training weekend: **Mar 27–29, 2026**
+- Location: **Sioux Falls (in-person)**
 
-## Required fields
-1. Name
-2. Email + phone
-3. City/county + campus (if applicable)
-4. Availability Feb 2–Feb 28 (hours/week) + ability to attend **Mar 27–29 (in-person)**
-5. Transportation reliability (yes/no + notes)
+## Application questions (final)
+1) **Why do you want to join Organize SD?**
 
-## Required questions (recommended)
-1. Why do you want to join Organize SD, and why now? (150–250 words)
-2. What’s one outcome you want from this program by the end of the cohort? (short)
-3. Tell us about a time you followed through on a hard commitment. What did you do? (short)
-4. What communities do you feel most accountable to in South Dakota, and why? (short)
+2) **What is your availability attending multi-day training sessions (weekend intensives)?**
+- [ ] Yes
+- [ ] No
+  - If **No**: **Are you interested in future training opportunities?**
+    - [ ] Yes
+    - [ ] No
 
-## Scenario questions (pick 2–3)
-A. A volunteer repeatedly cancels at the last minute. What do you do?
-B. You’re behind goal with 3 days left. What do you change?
-C. Someone shares a screenshot of voter data in a group chat. What do you do?
+3) **Are you able to travel to the training location if required?**
+- [ ] Yes
+- [ ] No
 
-## Optional
-- Organizing experience (any kind)
-- Links (resume/LinkedIn)
-- Anything you want us to know that would help you succeed (childcare/work constraints, etc.)
+4) **What’s your comfort level having conversations with strangers?** (1–10)
 
-## Interview step (for finalists)
-20–30 minutes, structured, same questions for every candidate.
+5) **What issue is most important to you and why?**
+
+6) **What is the political action you are most proud of?**
+
+7) **What leadership positions have you held?**
+
+8) **Give a 30-second pitch for why someone should vote in November 2026.**
+
+9) **What is the most relevant organizing experience you’ve had?**
+(work, volunteer, community, campus, union, faith, etc.)
+
+10) **Have you ever had to “start from zero” to build a group or program?**
+(political or non-political)
+
+11) **What’s your experience working with rural communities or small towns (if any)?**
+
+12) **Tell us about a time you had to juggle work/school/family responsibilities while meeting commitments.**
+
+13) **Do you have consistent access to a phone and internet?**
+(Use especially for applicants who may need assistance with resources.)
+
+14) **Would you need travel or resource support (mileage, hotel, childcare stipend, etc.) to participate?**
+
+15) **What learning environment helps you most?**
+(lecture, hands-on practice, reading, roleplay, mentoring)
+
+16) **What kind of organizing role are you aiming for after the program?**
+(paid organizer, volunteer leader, staff role, campaign support, community org)
+
+17) **What is your experience working on teams with people from different backgrounds and identities?**
+
+## Notes (implementation)
+- If someone answers **No** to weekend intensives, route them to a “future opportunities” list.
+- Travel/resource support needs should be tracked in the pipeline tracker so fundraising can match real need.
