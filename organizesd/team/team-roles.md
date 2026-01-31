@@ -16,7 +16,7 @@ Key KPIs:
 - Active partner orgs + sponsor commitments
 - Cohorts launched on schedule
 
-## Training Director (Michele)
+## Training Director (Michele) — mkelly@organizesd.org
 Owns curriculum quality and producing job-ready operatives.
 
 Core responsibilities:
@@ -31,7 +31,7 @@ Key KPIs:
 - Skills lift / practical pass rate
 - Attendance rate + office-hours utilization
 
-## Operations Director (Rahele)
+## Operations Director (Rahele) — rahele@organizesd.org
 Owns the operating system: application → selection → logistics → records.
 
 Core responsibilities:
@@ -46,7 +46,7 @@ Key KPIs:
 - CRM completeness + dashboard updated weekly
 - Spend vs budget variance
 
-## Campus Outreach Director (Hannah)
+## Campus Outreach Director (Hannah) — hdayaget@organizesd.org
 Owns the campus talent pipeline statewide.
 
 Core responsibilities:
