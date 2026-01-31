@@ -66,3 +66,8 @@ Key KPIs:
 - Weekly 30-min pipeline meeting during Feb 2–Feb 28
 - 48-hour applicant response SLA
 - Document decisions + reasons in the tracker
+
+## Working with @Kampeynaibot (Kam)
+- In group chat replies, **@mention the person you’re addressing** (for clarity/notifications).
+- Kam is available for overnight task pushes; share a bullet list of tasks + links + owners + deadlines.
+- Contact: **kam@organizesd.org**
