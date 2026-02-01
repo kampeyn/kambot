@@ -20,6 +20,7 @@ kampeyn-war-room/
 - [2026-02-01](journal/2026-02-01.md) — Kimi + Firecrawl setup
 
 ### Key Concepts
+- [Lenox — Working Summary](concepts/lenox-working-summary.md)
 - [90-Day Goals (Lenox)](concepts/90-day-goals.md)
 - [7-Day Execution Plan](concepts/7-day-execution-plan.md)
 - [Productized Fundraising Ops — v1](concepts/productized-fundraising-ops.md)
