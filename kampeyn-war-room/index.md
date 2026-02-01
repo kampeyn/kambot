@@ -21,6 +21,10 @@ kampeyn-war-room/
 
 ### Key Concepts
 - [90-Day Goals (Lenox)](concepts/90-day-goals.md)
+- [7-Day Execution Plan](concepts/7-day-execution-plan.md)
+- [Productized Fundraising Ops — v1](concepts/productized-fundraising-ops.md)
+- [PRD — Thank Donors (v1)](concepts/thank-donors-prd.md)
+- [PRD — Hiring Blue (v1)](concepts/hiring-blue-prd.md)
 - [Kimi + Firecrawl Setup](concepts/kimi-firecrawl-setup.md)
 
 ### Active Decisions
