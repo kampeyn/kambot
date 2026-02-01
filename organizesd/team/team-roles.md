@@ -1,6 +1,6 @@
 # Organize SD — Team Roles (v1)
 
-## Executive Director (Lenox)
+## Executive Director (Lenox) — lenox@organizesd.org
 Owns strategy, fundraising, partnerships, and overall outcomes.
 
 Core responsibilities:
