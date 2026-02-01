@@ -20,6 +20,7 @@ kampeyn-war-room/
 - [2026-02-01](journal/2026-02-01.md) — Kimi + Firecrawl setup
 
 ### Key Concepts
+- [90-Day Goals (Lenox)](concepts/90-day-goals.md)
 - [Kimi + Firecrawl Setup](concepts/kimi-firecrawl-setup.md)
 
 ### Active Decisions
