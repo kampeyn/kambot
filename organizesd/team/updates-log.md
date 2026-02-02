@@ -14,3 +14,4 @@
   - Rahele welcomed as Operations Director.
   - Hannah welcomed as Campus Outreach Director.
 - Lenox announced Kam (AI assistant) as primary support; can help with tasks, docs, and Google Workspace/Drive.
+- Email permissions clarified: Kam has **draft-only** access and requires approval to send.
