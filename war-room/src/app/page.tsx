@@ -28,11 +28,10 @@ export default function Home() {
         <h2 className="text-lg font-semibold">What’s live right now</h2>
         <ul className="mt-3 list-disc space-y-1 pl-5 text-sm text-zinc-700">
           <li>
-            Kampeyn War Room: doc viewer over <code>kambot/kampeyn-war-room/</code>
+            War Room dashboards: status panel, kanban, activity log, notes inbox.
           </li>
           <li>
-            Organize SD War Room: first pass “Owner Board” view over
-            <code>kambot/organizesd/ops/owner-board.md</code>
+            Docs & deliverables viewer for both Kampeyn and Organize SD.
           </li>
         </ul>
       </div>
