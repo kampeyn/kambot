@@ -1,0 +1,34 @@
+name: kambot nightly digest
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 2:00 UTC daily
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Set up Node (if needed)
+        uses: actions/setup-node@v3
+        with:
+          node-version: '22'
+      - name: Generate digest and seed memory (mock)
+        run: |
+          mkdir -p brain/digests
+          DATE=$(date -u +%Y-%m-%d)
+          echo "Digest for $DATE" > brain/digests/digest-$DATE.md
+          echo "Seeded memory entry placeholder" >> brain/digests/digest-$DATE.md
+      - name: Commit digest
+        run: |
+          git config user.name "kambot-bot"
+          git config user.email "kambot@example.com"
+          git add brain/digests/digest-*.md brain/onboarding.md brain/memory-schema.md brain/templates/
+          git commit -m "kambot nightly digest seed ($DATE)" || true
+          git push origin main || true
+      - name: Create PR draft (requires gh cli)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr create --title "Kambot nightly digest" --body "Automated digest seed. See brain/digests/ for details." --base main --head main --draft || true
