@@ -1,0 +1,10 @@
+{
+  "id": "conv-0001",
+  "title": "Starter Conversation",
+  "participants": ["Lenox Ramsey"],
+  "started_at": "2026-02-03T09:40:00Z",
+  "updated_at": "2026-02-03T09:40:00Z",
+  "status": "open",
+  "sources": [],
+  "linked_memories": []
+}

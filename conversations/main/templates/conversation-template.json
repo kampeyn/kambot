@@ -1,0 +1,13 @@
+{
+  "id": "conv-0001",
+  "title": "Starter Conversation",
+  "participants": ["Lenox"],
+  "requester": "Lenox",
+  "prompt_summary": "Describe what kambot should log for conversations",
+  "response_summary": "Initial scaffold created",
+  "created_at": "2026-02-03T09:40:00Z",
+  "updated_at": "2026-02-03T09:40:00Z",
+  "status": "open",
+  "sources": [],
+  "notes": "Seed entry for conversations tracking"
+}
